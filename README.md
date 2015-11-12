@@ -8,4 +8,4 @@
 
 ## Unix / Linux
 * General
-  * LD_LIBRARY PATH
+  * [LD_LIBRARY PATH](/xnix/ld_library_path.md)
