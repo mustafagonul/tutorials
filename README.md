@@ -8,5 +8,4 @@
 
 ## Unix / Linux
 * General
-
-** LD_LIBRARY PATH
+  * LD_LIBRARY PATH
