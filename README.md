@@ -3,7 +3,7 @@
 ## Programming
 
 ### General
-* Design Principles
+* [Design Principles](programming/general/design_principles.md)
 * Design Patterns
 * UML
 
