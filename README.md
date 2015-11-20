@@ -4,7 +4,7 @@
 
 ### General
 * [Design Principles](programming/general/design_principles.md)
-* Design Patterns
+* [Design Patterns](programming/general/designpatterns/designpatternscard.pdf)
 * UML
 
 ### Standards
